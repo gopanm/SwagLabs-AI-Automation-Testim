@@ -16,7 +16,7 @@ This project demonstrates advanced functional UI automation using **Testim.io**,
 ## 📸 Execution Proof
 ### 1. Automated Test Flow
 ![Test Flow](test_flow_complete.png)
-*Description: A 27-step automated sequence covering login, cart interaction, and UI verification.*
+*Description: A 23-step automated sequence covering login, cart interaction, and UI verification.*
 
 ### 2. Smart Locator Analysis (Self-Healing)
 ![Smart Locators](smart_locators_analysis.png)
